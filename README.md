@@ -1,5 +1,5 @@
 # shubham dev
-<br>
  This is my first githup
- Author-(shubham dev)
+ <br>
+ Author-shubham dev (shubh)
  
